@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "973317291741",
+    "project_id": "ai-finance-coach",
+    "storage_bucket": "ai-finance-coach.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973317291741:android:eae47902437276ff512534",
+        "android_client_info": {
+          "package_name": "com.Satkar.financecoach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm9gJScKBU-zYZugQc-XX9Cm4ZURqYHFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973317291741:android:d2ba328e1fbab2da512534",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm9gJScKBU-zYZugQc-XX9Cm4ZURqYHFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
